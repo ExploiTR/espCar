@@ -1,7 +1,7 @@
 <p align="center"><img alt="PICTURE logo" src="https://raw.githubusercontent.com/ExploiTR/espCar/master/Android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="200"></p>
 <h1 align="center"> espCar </h1>
 <p align="center">
-<b align="center">A racing car which runs on ESP8266 & somewhat equivalent to coffee</b>
+<b align="center">A racing car which runs on ESP8266 & somewhat equivalent to coffee ❤ </b>
 
 #### `IP:PORT IS CURRENTLY HARDCODED TO 192.168.4.1:5555`
 
