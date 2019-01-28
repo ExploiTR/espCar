@@ -9,7 +9,8 @@
   • Implement *Accelerometer* control on client side  
   • Use AsyncTask(s) in Android code (Basically I've skipped them and suppressed errors by `StrictMode.permitAll()` )  
   • Write code in server-side for LEDs  
-  • Custom IP & Port
+  • Custom IP & Port  
+  • Buy a new ESP8266 and continue the project (IDK what happened to that existing one :-{ )
   
 #### `Download Link` : https://github.com/ExploiTR/espCar/releases
   
