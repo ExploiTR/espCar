@@ -83,7 +83,6 @@
         android:layout_marginBottom="16dp"
         android:textColor="#FFFFFF"
         android:padding="10dp"
-        android:enabled="false"
         android:text="@string/sensor_drive"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
