@@ -14,12 +14,12 @@
    limitations under the License.
 */
 
-const int enFront   = 16;
-const int front_in1 = 5;
-const int front_in2 = 4;
-const int enBack    = 14;
-const int back_in1  = 0;
-const int back_in2  = 2;
+const int enFront   = 16;  /* || equivalent to D0 */
+const int front_in1 = 5;   /* || equivalent to D1 */
+const int front_in2 = 4;   /* || equivalent to D2 */
+const int enBack    = 14;  /* || equivalent to D3 */
+const int back_in1  = 0;   /* || equivalent to D4 */
+const int back_in2  = 2;   /* || equivalent to D5 */
 
 #include <ESP8266WiFi.h>
 
