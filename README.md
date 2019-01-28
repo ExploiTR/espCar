@@ -8,7 +8,7 @@
 #### `Works need to be done`
   • Implement *Accelerometer* control on client side  
   • Use AsyncTask(s) in Android code (Basically I've skipped them and suppressed errors by `StrictMode.permitAll()` )  
-  • Write code in server-side for LEDs
+  • Write code in server-side for LEDs  
   • Custom IP & Port
   
 #### `Download Link` : https://github.com/ExploiTR/espCar/releases
