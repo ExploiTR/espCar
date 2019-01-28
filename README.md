@@ -13,6 +13,10 @@
   • Buy a new ESP8266 and continue the project (IDK what happened to that existing one :-{ )
   
 #### `Download Link` : https://github.com/ExploiTR/espCar/releases
+
+#### `Guide & Clear Readme` :  
+  
+  ❤ Some time needed ❤
   
 #### `Screenshots` :
 
