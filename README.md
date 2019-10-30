@@ -2,6 +2,9 @@
 <h1 align="center"> espCar </h1>
 <p align="center">
 <b align="center">A racing car which runs on ESP8266 & somewhat equivalent to coffee ❤ </b>
+  
+## ALERT :
+Android code is updated to v2 but arduino code in still in v1. Better use https://github.com/ExploiTR/espCar/releases/tag/1.0-alpha
 
 #### `IP:PORT IS CURRENTLY HARDCODED TO 192.168.4.1:5555`
 
