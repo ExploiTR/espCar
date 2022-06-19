@@ -20,10 +20,6 @@ Android code is updated to v2 but arduino code in still in v1. Better use https:
 #### `Working Video` :
   https://www.instagram.com/p/BtEiAphhzZc/  
   https://www.instagram.com/p/B6iv7vghof1/
-
-#### `Guide & Clear Readme` :  
-  
-  ❤ Some time needed ❤
   
 #### `Screenshots` :
 
